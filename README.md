@@ -13,12 +13,8 @@ I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack d
 - **National Institute of Technology (NIT), Kurukshetra** — B.Tech                                        
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walianitin&show_icons=true&count_private=true&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walianitin&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walianitin&layout=compact)                    
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=walianitin&theme=react)
-
-## 🏆 GitHub Activity
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=walianitin)
                   
 ### 📬 **Let's Connect**
 - [LinkedIn](www.linkedin.com/in/nitin-walia-511222304)

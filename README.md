@@ -12,7 +12,9 @@ I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack d
 ### 📚 **Education**
 - **National Institute of Technology (NIT), Kurukshetra** — B.Tech                                        
 
-  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=walianitin406&show_icons=true&count_private=true&hide_title=true)
+
 ### 📬 **Let's Connect**
 - [LinkedIn](www.linkedin.com/in/nitin-walia-511222304)
 - [LeetCode](https://leetcode.com/u/walianitin/)

@@ -20,11 +20,6 @@ I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack d
 
 ## 📊 GitHub Stats & Contributions
 ![GitHub Repo Stars](https://img.shields.io/github/stars/walianitin/Medium-blog?style=social)
-  ## 🛠️ Featured Projects
-| Repository | Description | Link |
-| --- | --- | --- |
-| [Medium-blog](https://github.com/walianitin/Medium-blog) | A dynamic blogging web app built with Node.js, React, PostgreSQL | [GitHub](https://github.com/walianitin/Medium-blog) |
-| [Wallet](https://github.com/walianitin/Wallet) | A PayTM-like banking app | [GitHub](https://github.com/walianitin/Wallet) |
                   
 ### 📬 **Let's Connect**
 - [LinkedIn](www.linkedin.com/in/nitin-walia-511222304)

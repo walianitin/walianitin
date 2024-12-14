@@ -14,7 +14,9 @@ I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack d
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walianitin&show_icons=true&count_private=true&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walianitin&layout=compact)
-                    
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=walianitin&theme=react)
+
 ## 🏆 GitHub Activity
 ![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=walianitin)
                   

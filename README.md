@@ -10,9 +10,10 @@ I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack d
 - **Others:** ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
 ### 📚 **Education**
-- **National Institute of Technology (NIT), Kurukshetra** — B.Tech, Production and Industrial Engineering (CGPA: 7.5)
+- **National Institute of Technology (NIT), Kurukshetra** — B.Tech                                        
+
   
 ### 📬 **Let's Connect**
-- [LinkedIn](https://www.linkedin.com/in/walianitin406)
-- [LeetCode](https://leetcode.com/walianitin406)
+- [LinkedIn](www.linkedin.com/in/nitin-walia-511222304)
+- [LeetCode](https://leetcode.com/u/walianitin/)
 - [Email](mailto:walianitin406@gmail.com)

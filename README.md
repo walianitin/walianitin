@@ -12,8 +12,19 @@ I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack d
 ### 📚 **Education**
 - **National Institute of Technology (NIT), Kurukshetra** — B.Tech                                        
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walianitin&show_icons=true&count_private=true&hide_title=true)](https://github.com/walianitin)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walianitin406&layout=compact)](https://github.com/walianitin406)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walianitin&show_icons=true&count_private=true&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walianitin&layout=compact)
+                    
+## 🏆 GitHub Activity
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=walianitin)
+
+## 📊 GitHub Stats & Contributions
+![GitHub Repo Stars](https://img.shields.io/github/stars/walianitin/Medium-blog?style=social)
+  ## 🛠️ Featured Projects
+| Repository | Description | Link |
+| --- | --- | --- |
+| [Medium-blog](https://github.com/walianitin/Medium-blog) | A dynamic blogging web app built with Node.js, React, PostgreSQL | [GitHub](https://github.com/walianitin/Medium-blog) |
+| [Wallet](https://github.com/walianitin/Wallet) | A PayTM-like banking app | [GitHub](https://github.com/walianitin/Wallet) |
                   
 ### 📬 **Let's Connect**
 - [LinkedIn](www.linkedin.com/in/nitin-walia-511222304)

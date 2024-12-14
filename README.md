@@ -1,6 +1,6 @@
 # Nitin Walia | Full-Stack Developer 👨‍💻
 
-I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack development**, **cloud computing**, and **blockchain**. I aim to build scalable and impactful applications that solve real-world problems.
+I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack development**. I aim to build scalable and impactful applications that solve real-world problems.
 
 ### 🛠️ **Skills**
 - **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)

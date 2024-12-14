@@ -17,9 +17,6 @@ I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack d
                     
 ## 🏆 GitHub Activity
 ![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=walianitin)
-
-## 📊 GitHub Stats & Contributions
-![GitHub Repo Stars](https://img.shields.io/github/stars/walianitin/Medium-blog?style=social)
                   
 ### 📬 **Let's Connect**
 - [LinkedIn](www.linkedin.com/in/nitin-walia-511222304)

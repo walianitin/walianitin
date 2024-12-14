@@ -25,3 +25,10 @@ I'm a **B.Tech student** at **NIT Kurukshetra**, passionate about **full-stack d
 - [LinkedIn](www.linkedin.com/in/nitin-walia-511222304)
 - [LeetCode](https://leetcode.com/u/walianitin/)
 - [Email](mailto:walianitin406@gmail.com)
+  # Nitin Walia's GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=walianitin&show_icons=true&count_private=true&hide_title=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=walianitin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walianitin&layout=compact)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=walianitin&theme=react)
+
